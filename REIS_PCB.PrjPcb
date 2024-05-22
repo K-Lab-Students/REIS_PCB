@@ -81,7 +81,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XVWTUELH
 
 [Configuration1]
 Name=Sources
@@ -1106,11 +1106,17 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-FullReplace=1
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=REIS_PCB.IntLib
+ComponentDesignItemID0=STM32L051C8T6
+ComponentSymbolReference0=STM32L051C8T6
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+FullReplace=0
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
 PreserveParameterLocations=1
@@ -1123,6 +1129,28 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=0
+ParameterName1=Component Kind
+ParameterUpdate1=0
+ParameterName2=Description
+ParameterUpdate2=0
+ParameterName3=Family
+ParameterUpdate3=0
+ParameterName4=Library Reference
+ParameterUpdate4=0
+ParameterName5=Manufacturer
+ParameterUpdate5=0
+ParameterName6=Model
+ParameterUpdate6=0
+ParameterName7=Name
+ParameterUpdate7=0
+ParameterName8=Package
+ParameterUpdate8=0
+ParameterName9=Pins
+ParameterUpdate9=0
+ParameterName10=ТУ
+ParameterUpdate10=0
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
