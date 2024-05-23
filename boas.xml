@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BoasConfig>
+  <Stamps>
+    <Stamp document="PE">
+      <param name="Разработал" value="" />
+      <param name="Проверил" value="" />
+      <param name="Начальник отдела" value="" />
+      <param name="Начальник отдела ( альтернативное название параметра)" value="" />
+      <param name="Утвердил" value="" />
+      <param name="Нормоконтроль" value="" />
+      <param name="Технолог" value="" />
+      <param name="Графа 04 - Литера" value="" />
+      <param name="Графа 12 - Подпись" value="" />
+      <param name="Графа 30 - Индекс заказчика" value="" />
+      <param name="Графа 28 - Номер и год утверждения литеры" value="" />
+      <param name="Графа 29 - Номер и год утверждения документации" value="" />
+      <param name="Графа 22 - Инвентарный номер дубликата" value="" />
+      <param name="Графа 19 - Инвентарный номер подлинника" value="" />
+      <param name="Графа 14 - Порядковый номер изменения" value="" />
+      <param name="Графа 15 - Указания об изменении листа" value="" />
+      <param name="Графа 16 - Номер извещения" value="" />
+      <param name="Графа 20 - Подпись и дата приемки в СТД" value="" />
+      <param name="Графа 21 - Взам. инв №" value="" />
+      <param name="Графа 23 - Подпись и дата приемки дубликата в СТД" value="" />
+      <param name="Графа 24 - Справ. №" value="" />
+    </Stamp>
+    <Stamp document="VP">
+      <param name="Разработал" value="" />
+      <param name="Проверил" value="" />
+      <param name="Начальник отдела" value="" />
+      <param name="Начальник отдела ( альтернативное название параметра)" value="" />
+      <param name="Утвердил" value="" />
+      <param name="Нормоконтроль" value="" />
+      <param name="Технолог" value="" />
+      <param name="Графа 04 - Литера" value="" />
+      <param name="Графа 12 - Подпись" value="" />
+      <param name="Графа 30 - Индекс заказчика" value="" />
+      <param name="Графа 28 - Номер и год утверждения литеры" value="" />
+      <param name="Графа 29 - Номер и год утверждения документации" value="" />
+      <param name="Графа 22 - Инвентарный номер дубликата" value="" />
+      <param name="Графа 19 - Инвентарный номер подлинника" value="" />
+      <param name="Графа 14 - Порядковый номер изменения" value="" />
+      <param name="Графа 15 - Указания об изменении листа" value="" />
+      <param name="Графа 16 - Номер извещения" value="" />
+      <param name="Графа 20 - Подпись и дата приемки в СТД" value="" />
+      <param name="Графа 21 - Взам. инв №" value="" />
+      <param name="Графа 23 - Подпись и дата приемки дубликата в СТД" value="" />
+      <param name="Графа 24 - Справ. №" value="" />
+    </Stamp>
+    <Stamp document="SP">
+      <param name="Разработал" value="" />
+      <param name="Проверил" value="" />
+      <param name="Начальник отдела" value="" />
+      <param name="Начальник отдела ( альтернативное название параметра)" value="" />
+      <param name="Утвердил" value="" />
+      <param name="Нормоконтроль" value="" />
+      <param name="Технолог" value="" />
+      <param name="Графа 04 - Литера" value="" />
+      <param name="Графа 12 - Подпись" value="" />
+      <param name="Графа 30 - Индекс заказчика" value="" />
+      <param name="Графа 28 - Номер и год утверждения литеры" value="" />
+      <param name="Графа 29 - Номер и год утверждения документации" value="" />
+      <param name="Графа 22 - Инвентарный номер дубликата" value="" />
+      <param name="Графа 19 - Инвентарный номер подлинника" value="" />
+      <param name="Графа 14 - Порядковый номер изменения" value="" />
+      <param name="Графа 15 - Указания об изменении листа" value="" />
+      <param name="Графа 16 - Номер извещения" value="" />
+      <param name="Графа 20 - Подпись и дата приемки в СТД" value="" />
+      <param name="Графа 21 - Взам. инв №" value="" />
+      <param name="Графа 23 - Подпись и дата приемки дубликата в СТД" value="" />
+      <param name="Графа 24 - Справ. №" value="" />
+    </Stamp>
+    <Stamp document="SPP">
+      <param name="Разработал" value="" />
+      <param name="Проверил" value="" />
+      <param name="Начальник отдела" value="" />
+      <param name="Начальник отдела ( альтернативное название параметра)" value="" />
+      <param name="Утвердил" value="" />
+      <param name="Нормоконтроль" value="" />
+      <param name="Технолог" value="" />
+      <param name="Графа 04 - Литера" value="" />
+      <param name="Графа 12 - Подпись" value="" />
+      <param name="Графа 30 - Индекс заказчика" value="" />
+      <param name="Графа 28 - Номер и год утверждения литеры" value="" />
+      <param name="Графа 29 - Номер и год утверждения документации" value="" />
+      <param name="Графа 22 - Инвентарный номер дубликата" value="" />
+      <param name="Графа 19 - Инвентарный номер подлинника" value="" />
+      <param name="Графа 14 - Порядковый номер изменения" value="" />
+      <param name="Графа 15 - Указания об изменении листа" value="" />
+      <param name="Графа 16 - Номер извещения" value="" />
+      <param name="Графа 20 - Подпись и дата приемки в СТД" value="" />
+      <param name="Графа 21 - Взам. инв №" value="" />
+      <param name="Графа 23 - Подпись и дата приемки дубликата в СТД" value="" />
+      <param name="Графа 24 - Справ. №" value="" />
+    </Stamp>
+  </Stamps>
+</BoasConfig>
