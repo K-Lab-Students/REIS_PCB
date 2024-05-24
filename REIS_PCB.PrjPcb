@@ -73,7 +73,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -82,6 +82,220 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XVWTUELH
+
+[Document3]
+DocumentPath=REIS_PCB.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document4]
+DocumentPath=REIS_PCB.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Parameter1]
+Name=DecimalNumber
+Value=REIS
+
+[Parameter2]
+Name=Графа 04 - Литера
+Value=
+
+[Parameter3]
+Name=Графа 12 - Подпись
+Value=
+
+[Parameter4]
+Name=Графа 14 - Порядковый номер изменения
+Value=
+
+[Parameter5]
+Name=Графа 15 - Указания об изменении листа
+Value=
+
+[Parameter6]
+Name=Графа 16 - Номер извещения
+Value=
+
+[Parameter7]
+Name=Графа 19 - Инвентарный номер подлинника
+Value=
+
+[Parameter8]
+Name=Графа 20 - Подпись и дата приемки в СТД
+Value=
+
+[Parameter9]
+Name=Графа 21 - Взам. инв №
+Value=
+
+[Parameter10]
+Name=Графа 22 - Инвентарный номер дубликата
+Value=
+
+[Parameter11]
+Name=Графа 23 - Подпись и дата приемки дубликата в СТД
+Value=
+
+[Parameter12]
+Name=Графа 24 - Справ. №
+Value=
+
+[Parameter13]
+Name=Графа 28 - Номер и год утверждения литеры
+Value=
+
+[Parameter14]
+Name=Графа 29 - Номер и год утверждения документации
+Value=
+
+[Parameter15]
+Name=Графа 30 - Индекс заказчика
+Value=
+
+[Parameter16]
+Name=Децимальный номер печатного узла
+Value=REIS
+
+[Parameter17]
+Name=Извещение_дата
+Value=
+
+[Parameter18]
+Name=Код типа схемы
+Value=Э3
+
+[Parameter19]
+Name=Компания
+Value=
+
+[Parameter20]
+Name=Компания1
+Value=
+
+[Parameter21]
+Name=Компания2
+Value=
+
+[Parameter22]
+Name=Литера1
+Value=
+
+[Parameter23]
+Name=Литера2
+Value=
+
+[Parameter24]
+Name=Литера3
+Value=
+
+[Parameter25]
+Name=Наименование
+Value=Node
+
+[Parameter26]
+Name=Наименование1
+Value=
+
+[Parameter27]
+Name=Наименование2
+Value=
+
+[Parameter28]
+Name=Начальник отдела
+Value=
+
+[Parameter29]
+Name=Начальник отдела ( альтернативное название параметра)
+Value=
+
+[Parameter30]
+Name=Начальник отдела_дата
+Value=
+
+[Parameter31]
+Name=Нормоконтроль
+Value=
+
+[Parameter32]
+Name=Нормоконтроль_дата
+Value=
+
+[Parameter33]
+Name=Обозначение
+Value=REIS Э3
+
+[Parameter34]
+Name=Папка для сохранения графической документации
+Value=Документация
+
+[Parameter35]
+Name=Папка для сохранения текстовой документации
+Value=Документация
+
+[Parameter36]
+Name=Первичная применяемость спецификации
+Value=
+
+[Parameter37]
+Name=Проверил
+Value=
+
+[Parameter38]
+Name=Проверил_дата
+Value=
+
+[Parameter39]
+Name=Разработал
+Value=
+
+[Parameter40]
+Name=Разработал_дата
+Value=
+
+[Parameter41]
+Name=Технолог
+Value=
+
+[Parameter42]
+Name=Технолог_дата
+Value=
+
+[Parameter43]
+Name=Тип документа
+Value=Схема электрическая принципиальная
+
+[Parameter44]
+Name=Утвердил
+Value=
+
+[Parameter45]
+Name=Утвердил_дата
+Value=
 
 [Configuration1]
 Name=Sources
@@ -92,6 +306,44 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=0
+
+[Generic_SmartPDFSettings]
+ProjectMode=0
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=-1
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+Wir_PrintColor=0
+Ldr_PrintColor=0
+SCH_ExpandLogicalToPhysical=0
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -421,6 +673,18 @@ OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration2_Name1=ColumnNameFormat
+Configuration2_Item1=CaptionAsName
+Configuration2_Name2=ForceUpdateSettings
+Configuration2_Item2=False
+Configuration2_Name3=General
+Configuration2_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration2_Name4=GroupOrder
+Configuration2_Item4=Comment=True|Footprint=True
+Configuration2_Name5=SortOrder
+Configuration2_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration2_Name6=VisibleOrder
+Configuration2_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType3=BOM_ReportCompare
 OutputName3=BOM Compare
 OutputDocumentPath3=
@@ -1106,16 +1370,130 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=1
+SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=REIS_PCB.IntLib
-ComponentDesignItemID0=Batarie
-ComponentSymbolReference0=Batarie
+ComponentDesignItemID0=24C01C-SSHM-T
+ComponentSymbolReference0=24C01C-SSHM-T
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=REIS_PCB.IntLib
+ComponentDesignItemID1=B2B-XH-A
+ComponentSymbolReference1=B2B-XH-A
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=REIS_PCB.IntLib
+ComponentDesignItemID2=B4B-XH-A
+ComponentSymbolReference2=B4B-XH-A
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=REIS_PCB.IntLib
+ComponentDesignItemID3=B6B-PH-K-S
+ComponentSymbolReference3=B6B-PH-K-S
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=REIS_PCB.IntLib
+ComponentDesignItemID4=CC0603CRNPO9BN7R0
+ComponentSymbolReference4=CC0603CRNPO9BN7R0
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=REIS_PCB.IntLib
+ComponentDesignItemID5=CC0603DRNPO9BN8R0
+ComponentSymbolReference5=CC0603DRNPO9BN8R0
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=REIS_PCB.IntLib
+ComponentDesignItemID6=DS1021-1x4
+ComponentSymbolReference6=DS1021-1x4
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=REIS_PCB.IntLib
+ComponentDesignItemID7=DS1021-2x20
+ComponentSymbolReference7=DS1021-2x20
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=REIS_PCB.IntLib
+ComponentDesignItemID8=DS1023-1x7
+ComponentSymbolReference8=DS1023-1x7
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=REIS_PCB.IntLib
+ComponentDesignItemID9=GNL-0603EC
+ComponentSymbolReference9=GNL-0603EC
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=REIS_PCB.IntLib
+ComponentDesignItemID10=GRM188R71E105KA12D
+ComponentSymbolReference10=GRM188R71E105KA12D
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=REIS_PCB.IntLib
+ComponentDesignItemID11=GRM188R71H104JA93D
+ComponentSymbolReference11=GRM188R71H104JA93D
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=REIS_PCB.IntLib
+ComponentDesignItemID12=GRM319R61E475K
+ComponentSymbolReference12=GRM319R61E475K
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=REIS_PCB.IntLib
+ComponentDesignItemID13=L6920DCTR
+ComponentSymbolReference13=L6920DCTR
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=REIS_PCB.IntLib
+ComponentDesignItemID14=LQH55DN100M
+ComponentSymbolReference14=LQH55DN100M
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=REIS_PCB.IntLib
+ComponentDesignItemID15=NX3215SA-32.768K
+ComponentSymbolReference15=NX3215SA-32.768K
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=REIS_PCB.IntLib
+ComponentDesignItemID16=NX5032GA-8MHz
+ComponentSymbolReference16=NX5032GA-8MHz
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=REIS_PCB.IntLib
+ComponentDesignItemID17=RC0603FR-0710KL
+ComponentSymbolReference17=RC0603FR-0710KL
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=REIS_PCB.IntLib
+ComponentDesignItemID18=RC0603JR-0762RL
+ComponentSymbolReference18=RC0603JR-0762RL
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name And Type
+ComponentLibraryIdentifier19=REIS_PCB.IntLib
+ComponentDesignItemID19=STM32L051C8T6
+ComponentSymbolReference19=STM32L051C8T6
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
 FullReplace=0
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1129,28 +1507,52 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Comment
-ParameterUpdate0=0
-ParameterName1=Component Kind
-ParameterUpdate1=0
-ParameterName2=Description
-ParameterUpdate2=0
-ParameterName3=Family
-ParameterUpdate3=0
-ParameterName4=Library Reference
-ParameterUpdate4=0
-ParameterName5=Manufacturer
-ParameterUpdate5=0
-ParameterName6=Model
-ParameterUpdate6=0
-ParameterName7=Name
-ParameterUpdate7=0
-ParameterName8=Package
-ParameterUpdate8=0
-ParameterName9=Pins
-ParameterUpdate9=0
-ParameterName10=ТУ
-ParameterUpdate10=0
+ParameterName0=Capacity
+ParameterUpdate0=1
+ParameterName1=Comment
+ParameterUpdate1=1
+ParameterName2=Component Kind
+ParameterUpdate2=1
+ParameterName3=Description
+ParameterUpdate3=1
+ParameterName4=Family
+ParameterUpdate4=1
+ParameterName5=Frequency
+ParameterUpdate5=1
+ParameterName6=Inductance
+ParameterUpdate6=1
+ParameterName7=Library Reference
+ParameterUpdate7=1
+ParameterName8=Manufacturer
+ParameterUpdate8=1
+ParameterName9=Model
+ParameterUpdate9=1
+ParameterName10=Name
+ParameterUpdate10=1
+ParameterName11=Package
+ParameterUpdate11=1
+ParameterName12=Parameter 1
+ParameterUpdate12=1
+ParameterName13=Parameter 2
+ParameterUpdate13=1
+ParameterName14=Parameter 3
+ParameterUpdate14=1
+ParameterName15=Parameter 4
+ParameterUpdate15=1
+ParameterName16=Parameter 5
+ParameterUpdate16=1
+ParameterName17=Parameter 6
+ParameterUpdate17=1
+ParameterName18=Parameter 7
+ParameterUpdate18=1
+ParameterName19=Pins
+ParameterUpdate19=1
+ParameterName20=Resistance
+ParameterUpdate20=1
+ParameterName21=Voltage
+ParameterUpdate21=1
+ParameterName22=ТУ
+ParameterUpdate22=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
