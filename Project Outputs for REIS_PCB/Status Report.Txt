@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [REIS_PCB.PrjPcb]
+   Generated File[REIS_PCB.TXT]
+   Generated File[REIS_PCB.LDP]
+   Generated File[REIS_PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:21:03 On 26.05.2024
